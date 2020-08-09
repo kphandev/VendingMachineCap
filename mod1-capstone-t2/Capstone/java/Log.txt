@@ -1,0 +1,12 @@
+Sat Aug 08 14:38:54 EDT 2020 Change: +14.95	Balance:0.00
+Sat Aug 08 14:40:06 EDT 2020 Cash added	+1.00	Balance:1.00
+Sat Aug 08 14:40:06 EDT 2020 Cash added	+2.00	Balance:3.00
+Sat Aug 08 14:40:06 EDT 2020 Cash added	+5.00	Balance:8.00
+Sat Aug 08 14:40:06 EDT 2020 Cash added	+10.00	Balance:18.00
+Sat Aug 08 14:40:09 EDT 2020 Purchase	Potato Crisps	A1	-3.05	Balance:14.95
+Sat Aug 08 14:40:10 EDT 2020 Change: +14.95	Balance:0.00
+Sat Aug 08 17:50:02 EDT 2020 Cash added	+10.00	Balance:10.00
+Sat Aug 08 17:50:04 EDT 2020 Cash added	+10.00	Balance:20.00
+Sat Aug 08 17:50:16 EDT 2020 Purchase	Potato Crisps	A1	-3.05	Balance:16.95
+Sat Aug 08 17:50:35 EDT 2020 Purchase	Cola	C1	-1.25	Balance:15.70
+Sat Aug 08 17:50:45 EDT 2020 Change: +15.70	Balance:0.00
